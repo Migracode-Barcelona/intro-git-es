@@ -1,155 +1,155 @@
 # { Git }
-### Here are questions for you to assimilate the concepts we went through in class :muscle:
+### Aquí tienes preguntas para que asimiles los conceptos que repasamos en clase :muscle:
 
-### Instructions:
-* Answer each question with a short sentence and/or a command (depending on the question).
-* Replace "# Your answer goes here" with the answer.
-    > ➡️ For this you will have to modify this README.md file
-* Once you are done, use your newly acquired git knowledge to submit this homework from the CodeSpace terminal 
-    > hint: use add, commit and push - if you do not find out how to do it it's okay, just ask your peers!
+### Instrucciones:
+* Responde a cada pregunta con una frase corta y/o un comando (dependiendo de la pregunta).
+* Sustituye "# Tu respuesta va aquí" por la respuesta.
+    > ➡️ Para ello tendrás que modificar este archivo README.md
+* :warning: Una vez que haya terminado, utilice su recién adquirido conocimiento de git para enviar esta tarea desde el terminal CodeSpace
+    > pista: usa add, commit y push - si no encuentras como hacerlo no pasa nada, ¡pregunta a tus compañeros!
 
-## Navigating the terminal
+## Navegando por la terminal
 
-  - What is a root directory?
+  - ¿Qué es un directorio raíz?
   ```bash
-  # Your answer goes here
+  # Tu respuesta va aquí
   ```
 
-  - What is the difference between root and home directory?
+  - ¿Cuál es la diferencia entre directorio raíz y directorio personal?
   ```bash
-  # Your answer goes here
+  # Tu respuesta va aquí
   ```
 
-  - What is the difference between absolute and relative path?
+  - ¿Cuál es la diferencia entre ruta absoluta y relativa?
   ```bash
-  # Your answer goes here
+  # Tu respuesta va aquí
   ```
 
-  - What command do you use to see what directory are you currently in?
+  - ¿Qué comando utilizas para ver en qué directorio te encuentras actualmente?
   ```bash
-  # Your answer goes here
+  # Tu respuesta va aquí
   ```
 
-  - How would you see the files and folders in a directory?
+  - ¿Cómo verías los archivos y carpetas de un directorio?
   ```bash
-  # Your answer goes here
+  # Tu respuesta va aquí
   ```
 
-  - How do you go back to your home directory?
+  - ¿Cómo vuelves a tu directorio personal?
   ```bash
-  # Your answer goes here
+  # Tu respuesta va aquí
   ```
 
-  - How do you create a new folder? Specify in the command where you want to save it.
+  - ¿Cómo se crea una nueva carpeta? Especifica en el comando dónde quieres guardarla.
   ```bash
-  # Your answer goes here
+  # Tu respuesta va aquí
   ```
 
-  - How do you remove a folder/directory, is it the same as removing a file?
+  - ¿Cómo se elimina una carpeta/directorio, es lo mismo que eliminar un fichero?
   ```bash
-  # Your answer goes here
+  # Tu respuesta va aquí
   ```
 
-  - What if a file or folder is not empty? What flag would you use to remove it anyway?
+  - ¿Qué pasa si un archivo o carpeta no está vacío? ¿Qué bandera usarías para eliminarlo de todos modos?
   ```bash
-  # Your answer goes here
+  # Tu respuesta va aquí
   ```
 
-  - How do you move a folder/file? What arguments does the command take?
+  - ¿Cómo se mueve una carpeta/archivo? ¿Qué argumentos toma el comando?
   ```bash
-  # Your answer goes here
+  # Tu respuesta va aquí
   ```
 
-  - How can you find out more about a command and see the available options, syntax etc. How/Where do you see the manual/help for a command?
+  - ¿Cómo puedes obtener más información sobre un comando y ver las opciones disponibles, la sintaxis, etc.? ¿Cómo/dónde puedes ver el manual/ayuda de un comando?
   ```bash
-  # Your answer goes here
+  # Tu respuesta va aquí
   ```
 
-  - With what command do you rename a folder/file in the command line?
+  - ¿Con qué comando se renombra una carpeta/archivo en la línea de comandos?
   ```bash
-  # Your answer goes here
+  # Tu respuesta va aquí
   ```
 
-  - How do you copy a folder?
+  - ¿Cómo se copia una carpeta?
   ```bash
-  # Your answer goes here
+  # Tu respuesta va aquí
   ```
 
-  - What command do you use to open a folder/file?
+  - ¿Qué comando se utiliza para abrir una carpeta/archivo?
   ```bash
-  # Your answer goes here
+  # Tu respuesta va aquí
   ```
 
-## Creating a new project
-  - How do you create a new folder (what command)?
+## Crear un nuevo proyecto
+  - ¿Cómo se crea una nueva carpeta (qué comando)?
   ```bash
-  # Your answer goes here
+  # Tu respuesta va aquí
   ```
 
-  - What command do you use to create/initiate a local repository (from the command line)?
+  - ¿Qué comando utilizas para crear/iniciar un repositorio local (desde la línea de comandos)?
   ```bash
-  # Your answer goes here
+  # Tu respuesta va aquí
   ```
 
-  - What command do you use to create a new file?
+  - ¿Qué comando utilizas para crear un nuevo archivo?
   ```bash
-  # Your answer goes here
+  # Tu respuesta va aquí
   ```
 
-  - If you create a file and and add text to it, these changes are now on your working directory. How would you save these to the local repository (add the commands for both steps)
+  - Si creas un fichero y le añades texto, estos cambios están ahora en tu directorio de trabajo. Cómo los guardarías en el repositorio local (añade los comandos para ambos pasos)
   ```bash
-  # 1. From the working directory to the staging area:
+  # 1. Del working directory al staging area
   
-    # Your answer goes here
+    # Tu respuesta va aquí
     
-  # 2. From the staging area to local repository
+  # 2. Del staging area al local repository
   
-    # Your answer goes here
+    # Su respuesta va aquí
     
   ```
 
-  - What does git status do?
+  - ¿Qué hace git status?
   ```bash
-  # Your answer goes here
+  # Tu respuesta va aquí
   ```
 
-  - How would you check your commit history?
+  - ¿Cómo comprobarías tu historial de commits?
   ```bash
-  # Your answer goes here
+  # Tu respuesta va aquí
   ```
 
-  - To share your project(folder), you will need to create a remote repository.
-     This can be done either on Github or in the command line using "gh repo create" command.
-     To connect your local repository to the remote one (if you were to create it on github)
-     you need to add remote to it. What command do you use to add the remote
+  - Para compartir tu proyecto(carpeta), necesitarás crear un repositorio remoto.
+     Esto se puede hacer en Github o en la línea de comandos utilizando el comando "gh repo create".
+     Para conectar tu repositorio local al remoto (si lo creaste en github)
+     necesitas añadirle el remoto. ¿Qué comando se utiliza para agregar el remoto
   ```bash
-  # Your answer goes here
+  # Tu respuesta va aquí
   ```
      
-  - How do you check whether you already have some github/remote repository connected to your local one?
+  - ¿Cómo compruebas si ya tienes algún repositorio remoto / GitHub conectado al local?
   ```bash
-  # Your answer goes here
+  # Tu respuesta va aquí
   ```
   
-  - When local and remote repository are connected, one can push the changes/files so they are visible
-     on github. What would the command be?
+  - Cuando el repositorio local y el remoto están conectados, uno puede empujar los cambios/archivos para que sean visibles
+     en github. ¿Cuál sería el comando?
   ```bash
-  # Your answer goes here
+  # Tu respuesta va aquí
   ```
 
 
-## Working on an existing project
-  - Do you need to initiate a git repository after cloning a project?
+## Trabajando en un proyecto existente
+  - ¿Necesitas iniciar un repositorio git después de clonar un proyecto?
   ```bash
-  # Your answer goes here
+  # Tu respuesta va aquí
   ```
 
-  - What is the difference between forking and cloning?
+  - ¿Cuál es la diferencia entre fork y clone?
   ```bash
-  # Your answer goes here
+  # Tu respuesta va aquí
   ```
 
-  - Can you just push your changes to repository that you don't "own" on github?
+  - ¿Puedes simplemente empujar tus cambios a un repositorio que no "posees" en github?
   ```bash
-  # Your answer goes here
+  # Tu respuesta va aquí
   ```
